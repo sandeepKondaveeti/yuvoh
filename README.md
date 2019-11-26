@@ -21,10 +21,19 @@ Dataset used in this project can be found [here]( http://data.insideairbnb.com/u
 > *  [Seaborn](https://seaborn.pydata.org) 0.9.0
 > *  [Keras](https://keras.io/) 2.2.4
 
-
 ## Code
 
 The code used in this project is inside **Final_Yuvoh_Solution.ipynb**.
+
+## Methodology
+1. Importing the libraries and data.
+2. Analyse the features, Feature Extraction.
+3. Preprocessing and Cleaning.
+4. Replace Sentiment Analysis Score for Summary Feature.
+5. Exploratory Data Analysis (EDA)
+6. Data Normalization
+7. Build, Train and Test the models.
+8. Conclusion.
 
 ## Run
 
