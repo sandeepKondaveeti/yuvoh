@@ -1,6 +1,6 @@
 # Yuvoh Solution - Airbnb Price Prediction.
 
-The dataset contains data of hourly average reposnses from an array of 5 metal oxide chemical sensors embedded in an Air Quality Chemical Multisensor Device. I've used this data to predict the amount of CO based on other parameters.
+The dataset contains data of Airbnb listing details. I've used this data to predict the price based on other parameters.
 
 
 ## Dataset
