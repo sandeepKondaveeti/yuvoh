@@ -21,7 +21,7 @@ Dataset used in this project can be found [here]( http://data.insideairbnb.com/u
 > *  [Keras](https://keras.io/) 2.2.4
 > *  [vaderSentiment](https://pypi.org/project/vaderSentiment/) 3.2.1
 
-## Methodology
+## Approach
 1. Importing the libraries and data.
 2. Analyse the features, Feature Extraction.
 3. Preprocessing and Cleaning.
