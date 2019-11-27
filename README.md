@@ -38,3 +38,7 @@ The code used in this project is inside **Final_Yuvoh_Solution.ipynb**.
 ## Run
 
 To run this project you will need some software, like Anaconda, which provides support for running .ipynb files (Jupyter Notebook).
+
+## Conclusion
+
+After analysing the features provided, we have dropped some of the features which either have more NAs or of Single category or features which are highly correlated with other features, We have replaced Sentiment Analysis Score for Summary Feature. We've also drawn relevant insights from our **Exploratory Data Analysis (EDA)** then have normalized and modelled the data over various regression algorithms and clearly see that **Random Forest Regressor** provides the best result with a **mean squared error** of **0.1422** and **r2_Score** of **0.7629**
