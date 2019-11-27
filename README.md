@@ -2,7 +2,6 @@
 
 The dataset contains data of Airbnb listing details. I've used this data to predict the price based on other parameters.
 
-
 ## Dataset
 
 Dataset used in this project can be found [here]( http://data.insideairbnb.com/united-kingdom/england/london/2019-07-10/data/listings.csv.gz).
@@ -20,10 +19,7 @@ Dataset used in this project can be found [here]( http://data.insideairbnb.com/u
 > *  [Scikit-learn](http://scikit-learn.org/stable/) 0.20.3
 > *  [Seaborn](https://seaborn.pydata.org) 0.9.0
 > *  [Keras](https://keras.io/) 2.2.4
-
-## Code
-
-The code used in this project is inside **Final_Yuvoh_Solution.ipynb**.
+> *  [vaderSentiment](https://pypi.org/project/vaderSentiment/) 3.2.1
 
 ## Methodology
 1. Importing the libraries and data.
@@ -34,6 +30,10 @@ The code used in this project is inside **Final_Yuvoh_Solution.ipynb**.
 6. Data Normalization
 7. Build, Train and Test the models.
 8. Conclusion.
+
+## Code
+
+The code used in this project is inside **Final_Yuvoh_Solution.ipynb**.
 
 ## Run
 
